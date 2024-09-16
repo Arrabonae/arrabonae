@@ -2,9 +2,9 @@
 
 I'm a passionate AI developer with expertise in machine learning, reinforcement learning, and natural language processing. My projects demonstrate a wide range of skills, from building advanced AI reasoning systems to implementing cutting-edge reinforcement learning algorithms and developing practical applications.
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### GRAPES: Graph-based Reasoning and Planning with Ensemble Systems
+### <span style="color: #0366d6;"> GRAPES: Graph-based Reasoning and Planning with Ensemble Systems </span>
 An innovative approach to enhance language model reasoning using Monte Carlo Tree Search.
 - **Tech Stack:** Python, asyncio, Pydantic
 - **Key Features:** 
@@ -130,7 +130,7 @@ Deep learning model for predicting Corn Futures prices based on US weather patte
   - Implemented data pipeline for weather and price data integration
   - Utilized AWS Lambda for automated data updates and model retraining
   - Deployed model on EC2 with auto-scaling for handling variable load
-- **GitHub:** [corn Risk Repository](https://github.com/Arrabonae/corn)
+- **GitHub:** [corn Repository](https://github.com/Arrabonae/corn)
 
 ## Skills
 
