@@ -4,7 +4,7 @@ I'm a passionate AI developer with expertise in machine learning, reinforcement 
 
 ## Featured Projects
 
-### <span style="color: #0366d6;"> GRAPES: Graph-based Reasoning and Planning with Ensemble Systems </span>
+### <code style="color : lightblue">GRAPES: Graph-based Reasoning and Planning with Ensemble Systems </code>
 An innovative approach to enhance language model reasoning using Monte Carlo Tree Search.
 - **Tech Stack:** Python, asyncio, Pydantic
 - **Key Features:** 
