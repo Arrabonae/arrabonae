@@ -2,9 +2,9 @@
 
 I'm a passionate AI developer with expertise in machine learning, reinforcement learning, and natural language processing. My projects demonstrate a wide range of skills, from building advanced AI reasoning systems to implementing cutting-edge reinforcement learning algorithms and developing practical applications.
 
-## Featured Projects
+# Featured Projects
 
-### <code style="color : lightblue">GRAPES: Graph-based Reasoning and Planning with Ensemble Systems </code>
+## GRAPES: Graph-based Reasoning and Planning with Ensemble Systems
 An innovative approach to enhance language model reasoning using Monte Carlo Tree Search.
 - **Tech Stack:** Python, asyncio, Pydantic
 - **Key Features:** 
@@ -20,7 +20,7 @@ An innovative approach to enhance language model reasoning using Monte Carlo Tre
   - Developed probing question generation and answer evaluation mechanisms
 - **GitHub:** [grapes Repository](https://github.com/Arrabonae/grapes)
 
-### Multi-agent Deep Deterministic Policy Gradient (MADDPG)
+## Multi-agent Deep Deterministic Policy Gradient (MADDPG)
 Implementation of MADDPG for cooperative AI in PettingZoo's MPE environment.
 - **Tech Stack:** Python, TensorFlow, PettingZoo
 - **Key Features:** 
@@ -34,7 +34,7 @@ Implementation of MADDPG for cooperative AI in PettingZoo's MPE environment.
   - Customized action and observation spaces for the Simple Adversary environment
 - **GitHub:** [MADDPG Repository](https://github.com/Arrabonae/MADDPG)
 
-### TD3-HER for Robotic Control
+## TD3-HER for Robotic Control
 Implementation of Twin Delayed Deep Deterministic Policy Gradient with Hindsight Experience Replay for sparse reward environments.
 - **Tech Stack:** Python, TensorFlow, Gymnasium, Panda-Gym
 - **Key Features:** 
@@ -48,7 +48,7 @@ Implementation of Twin Delayed Deep Deterministic Policy Gradient with Hindsight
   - Employed soft target updates and custom learning rates for actor and critic
 - **GitHub:** [TD3-HER Repository](https://github.com/Arrabonae/TD3_HER)
 
-### Double Dueling Deep Q-Learning for Atari Pong
+## Double Dueling Deep Q-Learning for Atari Pong
 DDDQN model solving the OpenAI Atari Pong environment using PyTorch.
 - **Tech Stack:** Python, PyTorch, OpenAI Gym
 - **Key Features:** 
@@ -62,7 +62,7 @@ DDDQN model solving the OpenAI Atari Pong environment using PyTorch.
   - Implemented frame stacking and preprocessing for Atari environment
 - **GitHub:** [DDDQN Repository](https://github.com/Arrabonae/openai_DDDQN)
 
-### CyberSweat: AI-driven Workout App
+## CyberSweat: AI-driven Workout App
 iOS native app for AI-powered workout design and sharing.
 - **Tech Stack:** Swift, SwiftUI, Firebase, OpenAI API
 - **Key Features:** 
@@ -76,7 +76,7 @@ iOS native app for AI-powered workout design and sharing.
   - Designed efficient data models for Firestore database
 - **GitHub:** private repo
 
-### Credit Risk Model
+## Credit Risk Model
 End-to-end application of Credit Risk models based on Basel III standards.
 - **Tech Stack:** Python, Pandas, Scikit-learn, StatsModels
 - **Key Features:** 
@@ -90,7 +90,7 @@ End-to-end application of Credit Risk models based on Basel III standards.
   - Implemented stress testing and sensitivity analysis
 - **GitHub:** [Credit Risk Repository](https://github.com/Arrabonae/Credit_Risk)
 
-### Blockchain-based Coin
+## Blockchain-based Coin
 Implementation of a basic blockchain and cryptocurrency system.
 - **Tech Stack:** Python, Flask, Cryptography libraries
 - **Key Features:** 
@@ -104,7 +104,7 @@ Implementation of a basic blockchain and cryptocurrency system.
   - Utilized Flask for creating multiple nodes on different ports
 - **GitHub:** [Blockchain Repository](https://github.com/Arrabonae/cryptocurrency)
 
-### WallStreetBets Sentiment Analysis
+## WallStreetBets Sentiment Analysis
 Sentiment analysis of r/WallStreetBets subreddit to study its influence on stock market movements.
 - **Tech Stack:** Python, NLTK, TextBlob, Pandas, Matplotlib
 - **Key Features:** 
@@ -118,7 +118,7 @@ Sentiment analysis of r/WallStreetBets subreddit to study its influence on stock
   - Created interactive visualizations for sentiment trends
 - **GitHub:** private repo
 
-### Corn Futures Price Prediction
+## Corn Futures Price Prediction
 Deep learning model for predicting Corn Futures prices based on US weather patterns.
 - **Tech Stack:** Python, TensorFlow, AWS (EC2, S3, Lambda)
 - **Key Features:** 
