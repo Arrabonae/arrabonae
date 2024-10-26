@@ -1,7 +1,3 @@
-# Portfolio
-
-I'm a passionate AI developer with expertise in machine learning, reinforcement learning, and natural language processing. My projects demonstrate a wide range of skills, from building advanced AI reasoning systems to implementing cutting-edge reinforcement learning algorithms and developing practical applications.
-
 # Featured Projects
 
 ## GRAPES: Graph-based Reasoning and Planning with Ensemble Systems
