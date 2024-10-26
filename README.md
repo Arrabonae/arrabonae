@@ -1,5 +1,10 @@
 # Featured Projects
 
+## Entropix 
+I'm closely following the entropix project and contribution where I can. 
+- **GitHub:** [main Repository](https://github.com/xjdr-alt/entropix)
+
+
 ## GRAPES: Graph-based Reasoning and Planning with Ensemble Systems
 An innovative approach to enhance language model reasoning using Monte Carlo Tree Search.
 - **Tech Stack:** Python, asyncio, Pydantic
