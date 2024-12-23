@@ -1,7 +1,7 @@
 # Featured Projects
 
 ## Entropix 
-I'm closely following the entropix project and contribution where I can. 
+I'm closely following the entropix project and contribute where I can. 
 - **GitHub:** [main Repository](https://github.com/xjdr-alt/entropix)
 
 
